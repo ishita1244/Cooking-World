@@ -17,3 +17,6 @@ SEARCH RECIPE:-
 After deleting recipe for roti:-
 
 ![8](https://user-images.githubusercontent.com/78797958/181822457-f8da06ed-6e72-496a-817f-acf74511073a.png)
+
+View Detailed Recipe:-
+![16](https://user-images.githubusercontent.com/78797958/181829410-0b477b3d-5906-4cc9-8697-4bc047e108fb.png)
